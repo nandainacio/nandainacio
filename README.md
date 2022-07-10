@@ -1,6 +1,6 @@
 ### Oiê! Eu sou a Fernanda Inacio👋
 
-Hoje estudo C#, .Net, Java, Android
+Hoje Java e Android
 
 <div align="center">
   <a href="https://github.com/nandainacio">
